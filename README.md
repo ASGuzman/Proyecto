@@ -8,19 +8,17 @@ Satisfacción del Cliente: Cumplimiento de los SLA comprometidos para mejorar la
 Herramienta de Gestión: Desarrollo y presentación de un Dashboard interactivo para facilitar la toma de decisiones por parte de los managers del Call Center.
 
 Contenido del Repositorio:
-1. Carpeta PDF:
-En esta carpeta se encuentran los gráficos analíticos utilizados para el examen visual y para mejorar la interpretación de los datos.
 
-2. Data Dictionary:
+1. Data Dictionary:
 Este documento describe en detalle los aspectos del negocio y de cada variable presente en el conjunto de datos.
 
-3. Notebook:
+2. Notebook:
 Este documento detalla los pasos realizados durante la limpieza y el análisis exploratorio de cada variable del conjunto de datos. Aquí se encuentran los hallazgos principales y los procesos aplicados para responder a las preguntas planteadas por los interesados.
 
-4. Análisis:
+3. Análisis:
 En este documento, se resumen los resultados encontrados durante el análisis exploratorio de los datos. Se proporcionan respuestas a las preguntas de negocio y se presentan las conclusiones derivadas del análisis.
 
-5. Integrador:
+4. Integrador:
 Se presenta un Dashboard interactivo con las principales métricas y gráficos que permiten hacer el seguimiento de la calidad de atención del Call Center. Este Dashboard proporciona una herramienta visual para monitorear la eficiencia, satisfacción del cliente y productividad del Call Center.
 
 Conclusiones y Próximos Pasos:
